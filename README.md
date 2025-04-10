@@ -2,12 +2,6 @@
 
 **Caption It Up** is a deep learning-powered web app that automatically generates image captions. Built with Flask and a ResNet50-LSTM model pipeline, the app offers a simple, elegant UI and includes text-to-speech support for enhanced accessibility.
 
----
-
-## 🔍 Demo
-
-![Caption It Up Demo](https://github.com/piyushhh17/Caption-it-up/blob/main/static/preview.gif)  
-*Example: "a dog jumping over a hurdle on a track"*
 
 ---
 
